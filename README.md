@@ -19,14 +19,7 @@ During my internship, I was tasked with transforming raw datasets into actionabl
 - **PostgreSQL:** As the primary relational database for storing and querying data.
 - **Google Looker Studio:** For building insightful and interactive dashboards.
 - **SQL:** For data manipulation and analysis within PostgreSQL.
-
-## How to Use This Repository
-
-1. **Data Cleaning Scripts:** Explore the `scripts/` directory for Python scripts demonstrating the cleaning and preprocessing steps.
-2. **Database Queries:** Find example SQL queries and scripts in the `sql/` directory to understand how data was managed in PostgreSQL.
-3. **Dashboard Snapshots:** View the `dashboards/` directory for exported views and screenshots of the Looker Studio dashboards.
-4. **Documentation:** Check the `docs/` folder for detailed explanations and guides on each step of the process.
-
+  
 ## Highlights
 
 - Improved data quality and reduced inconsistencies by applying robust cleaning techniques.
