@@ -1,4 +1,4 @@
-# Excelerate Data Analyst Dashboard
+# Excelerate Data Analyst Internship Deliverables
 
 Here's the dashboard link : [Click Here !!](https://lookerstudio.google.com/s/h89ND_jWLUU)
 ## Internship Project Overview
